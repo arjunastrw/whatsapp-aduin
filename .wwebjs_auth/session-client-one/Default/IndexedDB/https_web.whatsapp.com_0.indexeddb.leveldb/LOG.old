@@ -1,0 +1,10 @@
+2024/02/05-13:28:42.901 5110 Reusing MANIFEST /home/arjunastrw/Project/Joki/2024/February/03_02_2024/golang/Backend2/whatsapp-aduin/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/05-13:28:42.903 5110 Recovering log #6524
+2024/02/05-13:28:42.938 5110 Reusing old log /home/arjunastrw/Project/Joki/2024/February/03_02_2024/golang/Backend2/whatsapp-aduin/.wwebjs_auth/session-client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/006524.log 
+2024/02/05-13:29:07.003 5111 Level-0 table #6530: started
+2024/02/05-13:29:07.048 5111 Level-0 table #6530: 1339315 bytes OK
+2024/02/05-13:29:07.049 5111 Delete type=0 #6524
+2024/02/05-13:29:07.141 5111 Compacting 1@1 + 1@2 files
+2024/02/05-13:29:07.233 5111 Generated table #6531@1: 41406 keys, 1611389 bytes
+2024/02/05-13:29:07.233 5111 Compacted 1@1 + 1@2 files => 1611389 bytes
+2024/02/05-13:29:07.234 5111 compacted to: files[ 0 0 1 0 0 0 0 ]
